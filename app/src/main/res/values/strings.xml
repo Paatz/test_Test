@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">showPlayers</string>
+    <string name="load_players">Load players</string>
+    <string name="player01">messi</string>
+    <string name="player02">mo salah</string>
+    <string name="player03">firmino</string>
+    <string name="player04">sadio mané</string>
+    <string name="player05">danny ings</string>
+    <string name="player06">minamino</string>
+    <string name="player07">james ward-prowse</string>
+    <string name="player08">vestergaard</string>
+    <string name="player09">redmond</string>
+    <string name="player10">kyle walker-peters</string>
+</resources>
